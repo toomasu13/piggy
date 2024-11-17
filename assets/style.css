@@ -1,0 +1,30 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.metric-card {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.chart-container {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+}
+
+.github-metric {
+    background-color: #f6f8fa;
+    padding: 0.5rem;
+    border-radius: 3px;
+}
+
+.sentiment-indicator {
+    font-weight: bold;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+}
